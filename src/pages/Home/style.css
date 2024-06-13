@@ -7,7 +7,7 @@
 
 h1 {
   color: #fff;
-  font-size: 32px;
+  font-size: 28px;
 }
 
 form {
@@ -38,8 +38,9 @@ form {
     height: 40px;
     background-color: #363653;
     font-size: 16px;
-    padding-left: 10px;
+    padding-left: 15px;
     outline: none;
+    color: #fff;
 
   }
 }
